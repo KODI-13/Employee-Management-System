@@ -4,3 +4,7 @@ This is a simple Employee Management System using python Functional programming.
 3) Update Information
 4) Delete Information
 5) Filtre/search 
+
+For login the username and password is as follow
+Username = whatthefuck
+Password = 12345678
